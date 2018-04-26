@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TournamentManager</string>
+    <string name="star_game_text">Starta ny turnering!</string>
+    <string name="create_hint_text"></string>
+    <string name="add_player_btn_text">Lägg till!</string>
+    <string name="go_next_btn_text">Se spelschema!</string>
+    <string name="match_title">Spelschema!</string>
+    <string name="who_won_title">Vem vann?</string>
+    <string name="match_table_title">Resultattabell</string>
+</resources>

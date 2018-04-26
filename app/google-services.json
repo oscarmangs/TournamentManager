@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "392647302379",
+    "firebase_url": "https://tournamentmanager-41a18.firebaseio.com",
+    "project_id": "tournamentmanager-41a18",
+    "storage_bucket": "tournamentmanager-41a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392647302379:android:1090d39922cafeac",
+        "android_client_info": {
+          "package_name": "com.example.oscarmangs.tournamentmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392647302379-gq8ikpapoja5t78j8b2ea6rnrt20k5ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oscarmangs.tournamentmanager",
+            "certificate_hash": "8fec965c7bfa4a1261397cbb5709f16ebfd197f7"
+          }
+        },
+        {
+          "client_id": "392647302379-b7sp7l59b8u5eis2oi77ht19eh45aae9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL8ZHW2cBFUNQ59X1w7PZaDfXrngLmTrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392647302379-b7sp7l59b8u5eis2oi77ht19eh45aae9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
